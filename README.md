@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR YOUR +SUPPORT-DONT; FORGET+SATAR+FORK+MYREPO;CREATED+BY+MR MUZAMIL;RELEASED+7-1-2025" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR YOUR +SUPPORT-DONT; FORGET+SATAR+FORK+MYREPO;CREATED+BY+BALOCH 795;RELEASED+7-1-2025" alt="Typing SVG" /></a>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="70" width="100%">
 <a><img src='https://i.ibb.co/ZJwzVrG/temp-image.jpg'/></a>
 
